@@ -15,4 +15,4 @@ Checkout the code from our repository and compile the code using the following p
 cd libhfill-x.x.x
 make
 ```
-You find some examples in the "test" folder. By the default, the Makefile will create a dynamic library, i.e. libHFILL.so, so remember to export the *.so path to the LD_LIBRARY_PATH before running your program. 
+You find some examples in the "test" folder. By the default, the Makefile will create a dynamic library, i.e. libHFILL.so, so remember to export the *.so path to the LD_LIBRARY_PATH before running your program.
